@@ -6,6 +6,7 @@
 ## redistribute this material, we would appreciate acknowlegement of its
 ## origin.
 ##
+##
 ## cmudict.0.6 is the fifth release of cmudict, first released as cmudict.0.1
 ## in September of 1993.  There was no generally available public release 
 ## of version 0.5.
